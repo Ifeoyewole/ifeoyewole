@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/Ifeoyewole">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Hello%2C+I'm+Victor+%F0%9F%91%8B;Also+known+as+OrbitNode;Frontend+%26+Full-Stack+Developer;Building+useful+digital+experiences" alt="Animated introduction: Victor, OrbitNode, frontend and full-stack developer" />
+</a>
+
 <h1>Oyewole Victor Ifeoluwa</h1>
 
 <h3>OrbitNode · Frontend & Full-Stack Developer · Data Analyst</h3>
@@ -13,6 +17,10 @@
   <a href="https://github.com/Ifeoyewole">GitHub</a> ·
   <a href="https://github.com/Ifeoyewole/Portfolio">Portfolio repository</a> ·
   <a href="https://www.linkedin.com/in/oyewole-victor-a9323b317">LinkedIn</a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Ifeoyewole&label=Profile%20views&color=6d28d9&style=flat" alt="Profile view counter" />
 </p>
 
 </div>
@@ -37,6 +45,23 @@ I care about writing maintainable code, understanding the problem behind a featu
 | **Workflow & deployment** | Git, GitHub, VS Code, Vercel |
 | **Exploring & integrating** | OpenCV/computer vision workflows, Web3 integrations |
 
+### GitHub activity & most-used languages
+
+<div align="center">
+  <a href="https://github.com/Ifeoyewole">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ifeoyewole&show_icons=true&theme=tokyonight&hide_border=true" alt="OrbitNode's GitHub statistics" />
+  </a>
+  <a href="https://github.com/Ifeoyewole?tab=repositories">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeoyewole&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages across public GitHub repositories" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifeoyewole&theme=tokyonight&hide_border=true" alt="OrbitNode's GitHub contribution streak" />
+</div>
+
+<sub>The language card reflects code detected in GitHub repositories, not a ranking of professional proficiency. External stats images may occasionally be unavailable.</sub>
+
 ### Selected projects
 
 | Project | What I worked on | Stack |
@@ -56,6 +81,18 @@ I care about writing maintainable code, understanding the problem behind a featu
 - Developing practical full-stack features and API integrations.
 - Improving my skills in data analysis, application architecture, and computer vision-assisted workflows.
 - Learning through real projects, experimentation, and collaboration.
+
+### Contribution snake 🐍
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ifeoyewole/ifeoyewole/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ifeoyewole/ifeoyewole/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving through OrbitNode's GitHub contribution grid" src="https://raw.githubusercontent.com/Ifeoyewole/ifeoyewole/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
 
 ### Let's connect
 
